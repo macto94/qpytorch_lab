@@ -1,2 +1,2 @@
 # qpytorch_lab
-Samsung 2021 QPyTorch Lab
+Samsung 2022 QPyTorch Lab
